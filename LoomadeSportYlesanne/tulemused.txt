@@ -1,0 +1,15 @@
+﻿Hiir, 100, 10
+Janes, 100, 12
+Konn, 100, 40
+Hurt, 100, 9
+Poder, 100, 15
+Hiir, 200, 25
+Janes, 200, 20
+Konn, 200, 1:20
+Hurt, 200, 50
+Mager, 200, 2:00
+Hunt, 400, 1:02
+Janes, 400, 55
+Konn, 400, 3:00
+Hurt, 400, 1:30
+Mager, 400, 3:55
